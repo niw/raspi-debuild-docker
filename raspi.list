@@ -1,0 +1,2 @@
+deb http://archive.raspberrypi.com/debian/ bookworm main
+deb-src http://archive.raspberrypi.com/debian/ bookworm main
